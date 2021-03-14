@@ -47,18 +47,20 @@
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "favicon": false,
-    "mbrsiteDomain": "vvztzt4sgl",
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "mbrsiteDomain": "ir7vu04pxv",
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://www.ballitolawyer.co.za",
     "cookiesAlert": false,
     "gdpr": false,
     "witsec-language": false,
     "witsec-mailform": false,
     "witsec-white-label": true,
     "uniqCompNum": 10,
-    "versionPublish": "5.3.0",
-    "screenshot": "screenshot.png"
+    "versionPublish": "5.3.2",
+    "screenshot": "screenshot.png",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-P29KXHRB4X\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-P29KXHRB4X');\n</script>",
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
