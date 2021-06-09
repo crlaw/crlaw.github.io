@@ -49,7 +49,7 @@
     "uniqCompNum": 5,
     "versionPublish": "5.3.5",
     "favicon": false,
-    "mbrsiteDomain": "zppezc4idu",
+    "mbrsiteDomain": "l5x186dio0",
     "imageResize": true,
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
@@ -59,7 +59,7 @@
     "gdpr": false,
     "witsec-language": false,
     "witsec-mailform": false,
-    "witsec-white-label": false,
+    "witsec-white-label": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "screenshot": "screenshot.png"
   },
